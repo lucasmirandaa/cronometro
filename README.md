@@ -1,79 +1,30 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+Este é meu novo porjeto em [**React Native**](https://reactnative.dev)
 
-# Getting Started
+# Começando..
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+Projeto desenvolvido para fins acadêmicos, para aperfeiçoar e aprender um pouco sobre React Native que é o conhecimento aplicado neste 2º semetre de 2024.
 
-## Step 1: Start the Metro Server
+## CRONÔMETRO
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
+Se trata apenas de uma cronômetro básico com 2 botões de ação, um para iniciar e outro para parar a contagem, e logo abaixo mostrando o último tempo em que ele parou.
 
-To start Metro, run the following command from the _root_ of your React Native project:
+## Aplicação
 
-```bash
-# using npm
-npm start
+Basta clonar o repositório e executá-lo no Android Studio se tiver com ambiente configurado.<br>
+Segue o link para aprender a configurar seu ambiente -> [**Configuração de ambiente**](https://learn.microsoft.com/pt-br/windows/dev-environment/javascript/react-native-for-android)
 
-# OR using Yarn
-yarn start
+### Para Android
+
+utilizando o npx, abra o CMD no local do projeto e digite:
+```
+npx react-native run-android
 ```
 
-## Step 2: Start your Application
+Se tudo estiver configurado corretamente , você verá seu novo aplicativo sendo executado no seu emulador Android em breve.
 
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
+Esta é uma maneira de executar seu aplicativo — você também pode executá-lo diretamente no [**EXPO GO**](https://expo.dev/go), respectivamente.
 
-### For Android
+## Parabéns! :tada:
 
-```bash
-# using npm
-npm run android
-
-# OR using Yarn
-yarn android
-```
-
-### For iOS
-
-```bash
-# using npm
-npm run ios
-
-# OR using Yarn
-yarn ios
-```
-
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
-
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
-
-## Step 3: Modifying your App
-
-Now that you have successfully run the app, let's modify it.
-
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
-
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
-
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+Você conseguiu executar o cronômetro com sucesso. Faça seu teste e modifique se quiser.<br>
+E muito obrigado pela sua participação!
