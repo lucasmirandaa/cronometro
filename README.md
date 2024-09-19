@@ -2,7 +2,7 @@ Este é meu novo porjeto em [**React Native**](https://reactnative.dev)
 
 # Começando..
 
-Projeto desenvolvido para fins acadêmicos, para aperfeiçoar e aprender um pouco sobre React Native que é o conhecimento aplicado neste 2º semetre de 2024.
+Projeto desenvolvido para fins acadêmicos, utilizando o curso do <b><i>Sujeito Programador</i></b> para aperfeiçoar e aprender um pouco sobre React Native que é o conhecimento aplicado neste 2º semetre de 2024.
 
 ## CRONÔMETRO
 
