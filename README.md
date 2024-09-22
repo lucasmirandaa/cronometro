@@ -1,9 +1,9 @@
 
 
 <div>
-  <img src="https://github.com/user-attachments/assets/9b911553-0d71-4b74-b91b-803107b80cfd" alt="start" width="200">
-  <img src="https://github.com/user-attachments/assets/4c207495-c237-4938-9a94-87b6b32bcfdd" alt="count" width="200">
-  <img src="https://github.com/user-attachments/assets/266eb045-c6ca-4a89-a8c3-2124ae783b74" alt="clear" width="200">
+  <img src="https://github.com/user-attachments/assets/9b911553-0d71-4b74-b91b-803107b80cfd" alt="start" width="250">
+  <img src="https://github.com/user-attachments/assets/4c207495-c237-4938-9a94-87b6b32bcfdd" alt="count" width="250">
+  <img src="https://github.com/user-attachments/assets/266eb045-c6ca-4a89-a8c3-2124ae783b74" alt="clear" width="250">
 </div>
 
 
